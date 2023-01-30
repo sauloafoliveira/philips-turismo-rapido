@@ -31,7 +31,7 @@
 - Diagrama Entidade-Relacionamento do banco de dados;
 - O sistema precisa ter autenticação de usuários.
 
-# Sistema de banco de questões
+# Sistema de turismo de poucos dias
 
 Tamanho de Equipe: **3** (+1)
 
